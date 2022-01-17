@@ -1,0 +1,11 @@
+img {
+width: 400px;
+height: 600px;
+  }
+  body {
+    background-color: cornflowerblue;
+  }
+  button {
+    width: 95px;
+    height: 30px;
+  }
